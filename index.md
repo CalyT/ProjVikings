@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# **Les Runes Vikings**
 
-You can use the [editor on GitHub](https://github.com/CalyT/ProjVikings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##### **Une rune est une lettre de l'alphabet runique, c'est-à-dire le plus ancien système d'écriture utilisé par les peuples scandinaves.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cet alphabet est aussi appelé "fuþark" d'après le nom de ses six premières lettres. Comme si nous avions appelé notre alphabet "abcdef".
 
-```markdown
-Syntax highlighted code block
+Le futhark se compose de runes, "rúnar" en vieux norrois, un mot qui signifie "secret, murmure, savoir secret".
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+VIEUX FUTHARK = Cet alphabet est organisé en trois groupes de 8 runes chacun, appelés "ættir" , c'est à dire une famille. La première rune de chaque famille donne son nom au groupe:
 
-**Bold** and _Italic_ and `Code` text
+* f u þ a r k g w  (æt de Freyr)
+* h n i j æ p z s  (æt de Hagall)
+* t b e m i ng o d (æt de Týr)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+NOUVEAU FUTHARK = Au VIIIème siècle, le futhark initial diminue, et possède alors plus que 16 caractères. Durant l'âge viking ce sera cette version qui sera utilisée pour transcrire la langue.
 
-### Jekyll Themes
+* f u þ ą r k
+* h n i a s
+* t b m l ʀ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CalyT/ProjVikings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Rune viking signification
 
-### Support or Contact
+Les runes ont diverses significations, qui renvoient toutes vers des valeurs. Telles que **l'amour**, **la force**, **la protection**, **la volonté**.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Elles évoquent également des concepts généraux comme **la famille**, **le voyage**, **la mort**, ou encore **l'argent**. 
+
+<center>
+Ci-après, **la signification des runes viking:**
+[]()
+
+![50fd15f9636108b2ac0ff655c2dec319998df0c7r1-1191-1290v2_uhq](C:\xampp\htdocs\Projet_Vikings\img\50fd15f9636108b2ac0ff655c2dec319998df0c7r1-1191-1290v2_uhq.jpg)
+
+[Page des Dieux Vikings](C:\xampp\htdocs\Projet_Vikings\page2.html)
